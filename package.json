@@ -1,0 +1,6 @@
+{
+  "name": "cbbtc-race-bot",
+  "private": true,
+  "type": "module",
+  "description": "cbBTC/USDC race bot for make.fun agent-fun/bars-replay/v1"
+}
